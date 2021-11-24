@@ -42,3 +42,5 @@ function MyLabel({
 }
 
 export { MyLabel };
+
+export default MyLabel;
